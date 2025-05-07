@@ -47,7 +47,7 @@ The structure of the data contained in each city is as follows:
         - \<WikidataID>_\<city>_trails_routes_2_minroutes_4_minPOIS_TestRouteTraining.csv: training file used for the route recommendation problem.
         - \<WikidataID>_\<city>_trails_routes_2_minroutes_4_minPOIS_TestRouteTest.csv: test file used for the route recommendation problem.
 
- - **NOTE**: the experiments conducted in the paper can be found [here](URL REPOSITORY)
+ - **NOTE**: the repository including code from the experiments conducted in the paper can be found [here](https://github.com/pablosanchezp/ContextTrailsExperiments)
 
 
 
