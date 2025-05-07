@@ -5,6 +5,7 @@ Repository containing the data used in the paper:
 
 
 ### 📂 Repository Structure
+ - **online_appendix.pdf**: file with extended figures from those shown in the paper, depicting different characteristics of the data (route size, weather conditions, and so on).
  - **data**: directory containing the data of the three cities explored in the dataset:
   - NewYorkCity: data  corresponding to New York City.
   - PetalingJaya: data corresponding to Petaling Jaya (Kuala Lumpur district).
